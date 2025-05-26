@@ -1,12 +1,12 @@
 # SpaceWars
 
-<a href=https://github.com/Egor1ch/Space-Wars/raw/refs/heads/main/Space%20Wars.apk download>
-   <img src="https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github" alt="Download">
-</a>
-
 "Space Wars" is a 2025 Java/libGDX final project, inspired by "Space Rangers." 
 This pixel-art space combat game features classic arcade action, a main menu, in-game stats, and a game over screen. 
 All assets are publicly sourced without licenses.
+
+<a href=https://github.com/Egor1ch/Space-Wars/raw/refs/heads/main/Space%20Wars.apk download>
+   <img src="https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github" alt="Download">
+</a>
 
  This image displays the main menu of the game "Space Wars," featuring options to "PLAY" and "EXIT" against a pixelated cosmic background with planets and stars.
  
