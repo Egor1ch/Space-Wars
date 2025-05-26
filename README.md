@@ -1,15 +1,9 @@
 # SpaceWars
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+A [libGDX](https://libgdx.com/) project creadted with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+It consists of a simple space rangers game, developed with JAVA and libGDX. The assets used come from forospublics with free licenses of any use.
 
-## Platforms
-
-- `core`: Main module with the application logic shared by all platforms.
-- `android`: Android mobile platform. Needs Android SDK.
-
-## Gradle
-
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
+![Screenshot_20250526-182949_SpaceWars](https://github.com/user-attachments/assets/6183f6ad-1dbe-4e5f-af7f-e58a7a7d84ef)
+![Screenshot_20250526-182903_SpaceWars](https://github.com/user-attachments/assets/dc6397e2-d5c9-4ef7-abbc-6b7aeb6356e5)
+![Screenshot_20250526-182926_SpaceWars](https://github.com/user-attachments/assets/6996f835-94d9-40be-b4b2-57d713c74147)
